@@ -1,5 +1,5 @@
 ## First person game environment study
-![test](GIFS/intro.gif)![test](GIFS/intro.gif)![test](GIFS/entrance.gif)![test](GIFS/blanket.gif)![test](GIFS/toTunnel.gif)![test](GIFS/toBoxes.gif)![test](GIFS/machine.gif)
+![test](GIFS/intro.gif)![test](GIFS/entrance.gif)![test](GIFS/blanket.gif)![test](GIFS/toTunnel.gif)![test](GIFS/toBoxes.gif)![test](GIFS/machine.gif)
 
 Repo contains only backup of history of old alpha builds. Final build is not present here (file size contraints). In case of interest you can contact me and I will will provide one. 
 
