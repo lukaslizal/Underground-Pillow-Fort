@@ -10,6 +10,6 @@ Soft objects: Marvelous Designer -> Instant Meshes -> Blender -> Substance Paint
 Hard surface objects: Unity 2017 -> ProBuilder -> Substance Painter -> SplineMesh (walls, conduits, card boxes)
 Softbody-physics simulations : Unity 2017 -> Caronte FX (paper/wind, falling pillow)
 ## Credits
-Made by Lukáš Lízal.
+Made by Lukáš Lízal at Ateliér Multimédia (aka Ateliér Herních Médií) under supervising of Mgr. Vojtěch Vaněk.
 
 Developed and tested using 2013 MacBook Air hardware.
